@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=AlexGervas)
 
-<img align="right" height="250" src="https://i.pinimg.com/originals/17/01/7a/17017aec906e8c6ed811d938a07f4f93.gif" alt="" />
+<img align="right" height="210" src="https://i.pinimg.com/originals/17/01/7a/17017aec906e8c6ed811d938a07f4f93.gif" alt="" />
 
 #### :woman_technologist: About me:
 
@@ -14,7 +14,7 @@
 - :open_book: Higher education: Master's degree in Software Engineering at the NSTU.
 - :zap: In my free time I read books, sketch, play guitar or just listen to music. 
 
-<br><br>
+<br><br><br>
 
 ---
 
